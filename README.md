@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @xuyonghe03
-- Front-end developer.
-- Building dynamic, accessible, and user-friendly interfaces.
+- Front-end developer. Building dynamic, accessible, and user-friendly interfaces.
 - Passionate about design and performance optimization.
